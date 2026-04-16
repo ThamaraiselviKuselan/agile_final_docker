@@ -1,0 +1,2996 @@
+resume code::
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thamaraiselvi - Resume</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 70%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            margin-top: 30px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 2px solid gray;
+            padding-bottom: 5px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        ul {
+            font-size: 16px;
+        }
+
+        .header {
+            text-align: center;
+        }
+
+        .contact {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .section {
+            margin-top: 20px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>Thamaraiselvi</h1>
+        <p><b>Integrated M.Tech Software Engineering</b></p>
+        <p>VIT Vellore</p>
+    </div>
+
+    <div class="contact">
+        <p>Email: thamaraiselvi@email.com | Phone: 9876543210</p>
+    </div>
+
+    <div class="section">
+        <h2>Career Objective</h2>
+        <p>
+            To build a strong career in the field of Software Engineering by applying my knowledge 
+            in programming, DevOps, and modern technologies, and contribute effectively to organizational growth.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li>Integrated M.Tech Software Engineering - VIT Vellore</li>
+            <li>Higher Secondary Education - Completed with good academic performance</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming: Python, Java, C</li>
+            <li>Web: HTML, CSS</li>
+            <li>Tools: Docker, Jenkins, Kubernetes</li>
+            <li>Database: MySQL</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Projects</h2>
+        <ul>
+            <li>Student Portfolio using Docker and Kubernetes</li>
+            <li>CI/CD Pipeline using Jenkins</li>
+            <li>Basic Web Applications using HTML and CSS</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Completed DevOps mini project successfully</li>
+            <li>Participated in coding competitions</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Personal Details</h2>
+        <p>
+            Name: Thamaraiselvi <br>
+            Course: Integrated M.Tech Software Engineering <br>
+            University: VIT Vellore
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Declaration</h2>
+        <p>
+            I hereby declare that the above information is true to the best of my knowledge.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
+
+Absolutely — here are **decent, bigger HTML codes** for the most common exam questions. You can copy these into `index.html` and just change the title/details if needed.
+
+---
+
+# 1. Resume Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume - Thamaraiselvi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 75%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1, h2 {
+            color: darkblue;
+        }
+        h1 {
+            text-align: center;
+        }
+        .info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        ul {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Thamaraiselvi</h1>
+        <div class="info">
+            <p>Integrated M.Tech Software Engineering</p>
+            <p>VIT Vellore</p>
+            <p>Email: thamaraiselvi@email.com | Phone: 9876543210</p>
+        </div>
+
+        <h2>Career Objective</h2>
+        <p>To build a successful career in software engineering and contribute to innovative projects using my technical and problem-solving skills.</p>
+
+        <h2>Education</h2>
+        <ul>
+            <li>Integrated M.Tech in Software Engineering - VIT Vellore</li>
+            <li>Higher Secondary Education - Completed successfully</li>
+            <li>SSLC - Completed successfully</li>
+        </ul>
+
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: C, Java, Python</li>
+            <li>Web Technologies: HTML, CSS</li>
+            <li>DevOps Tools: Docker, Jenkins, Kubernetes</li>
+            <li>Database: MySQL</li>
+        </ul>
+
+        <h2>Projects</h2>
+        <ul>
+            <li>Resume Website Deployment using Docker</li>
+            <li>CI/CD Pipeline using Jenkins and Kubernetes</li>
+            <li>Simple Student Management System</li>
+        </ul>
+
+        <h2>Achievements</h2>
+        <ul>
+            <li>Participated in coding contests</li>
+            <li>Completed academic mini-projects successfully</li>
+        </ul>
+
+        <h2>Declaration</h2>
+        <p>I hereby declare that the above information is true to the best of my knowledge.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 2. Student Registration Form
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef2f7;
+        }
+        .container {
+            width: 60%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 8px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkgreen;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        .radio-group, .check-group {
+            margin-bottom: 15px;
+        }
+        .submit-btn {
+            background-color: darkgreen;
+            color: white;
+            border: none;
+            padding: 10px;
+            width: 100%;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Student Registration Form</h1>
+        <form>
+            <label>Full Name</label>
+            <input type="text" placeholder="Enter your name">
+
+            <label>Email</label>
+            <input type="email" placeholder="Enter your email">
+
+            <label>Password</label>
+            <input type="password" placeholder="Enter password">
+
+            <label>Phone Number</label>
+            <input type="text" placeholder="Enter phone number">
+
+            <label>Gender</label>
+            <div class="radio-group">
+                <input type="radio" name="gender"> Male
+                <input type="radio" name="gender"> Female
+            </div>
+
+            <label>Course</label>
+            <select>
+                <option>Integrated M.Tech</option>
+                <option>B.Tech</option>
+                <option>M.Tech</option>
+                <option>B.Sc</option>
+            </select>
+
+            <label>Skills</label>
+            <div class="check-group">
+                <input type="checkbox"> HTML
+                <input type="checkbox"> CSS
+                <input type="checkbox"> Java
+                <input type="checkbox"> Python
+            </div>
+
+            <label>Address</label>
+            <textarea rows="4" placeholder="Enter address"></textarea>
+
+            <input type="submit" value="Register" class="submit-btn">
+        </form>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 3. Login Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #dfe9f3;
+        }
+        .login-box {
+            width: 400px;
+            margin: 80px auto;
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 0 10px gray;
+            text-align: center;
+        }
+        h1 {
+            color: darkblue;
+        }
+        input {
+            width: 90%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        button {
+            width: 95%;
+            padding: 10px;
+            background-color: darkblue;
+            color: white;
+            border: none;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-box">
+        <h1>User Login</h1>
+        <p>Please enter your login details</p>
+        <form>
+            <input type="text" placeholder="Username"><br>
+            <input type="password" placeholder="Password"><br>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 4. College Website Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Website</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            margin: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: maroon;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #333;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+        }
+        .content {
+            padding: 20px;
+        }
+        h2 {
+            color: maroon;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>VIT Vellore</h1>
+        <p>Welcome to our College Website</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Courses</a>
+        <a href="#">Departments</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="content">
+        <h2>About Us</h2>
+        <p>VIT Vellore is one of the leading institutions offering quality education in engineering, technology, and research.</p>
+
+        <h2>Courses Offered</h2>
+        <ul>
+            <li>B.Tech</li>
+            <li>M.Tech</li>
+            <li>Integrated M.Tech</li>
+            <li>MCA</li>
+        </ul>
+
+        <h2>Facilities</h2>
+        <ul>
+            <li>Modern Laboratories</li>
+            <li>Central Library</li>
+            <li>Hostel Facilities</li>
+            <li>Sports and Cultural Activities</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 5. Product Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+        }
+        .product-box {
+            width: 60%;
+            margin: 40px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+            text-align: center;
+        }
+        h1 {
+            color: darkred;
+        }
+        .price {
+            font-size: 24px;
+            color: green;
+            font-weight: bold;
+        }
+        button {
+            background-color: darkred;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="product-box">
+        <h1>Laptop</h1>
+        <p>High performance laptop suitable for students and professionals.</p>
+        <p><b>Specifications:</b></p>
+        <ul style="text-align:left;">
+            <li>Intel i5 Processor</li>
+            <li>8GB RAM</li>
+            <li>512GB SSD</li>
+            <li>15.6 inch Display</li>
+        </ul>
+        <p class="price">Price: ₹55,000</p>
+        <button>Buy Now</button>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 6. Feedback Form
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Feedback Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef5db;
+        }
+        .container {
+            width: 55%;
+            margin: 40px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkgreen;
+        }
+        input, textarea, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: darkgreen;
+            color: white;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Feedback Form</h1>
+        <form>
+            <label>Name</label>
+            <input type="text" placeholder="Enter your name">
+
+            <label>Email</label>
+            <input type="email" placeholder="Enter your email">
+
+            <label>Rating</label>
+            <select>
+                <option>Excellent</option>
+                <option>Good</option>
+                <option>Average</option>
+                <option>Poor</option>
+            </select>
+
+            <label>Your Feedback</label>
+            <textarea rows="5" placeholder="Write your feedback here"></textarea>
+
+            <button type="submit">Submit Feedback</button>
+        </form>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 7. Time Table Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Class Time Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        .container {
+            width: 70%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px gray;
+            text-align: center;
+        }
+        h1 {
+            color: darkblue;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th {
+            background-color: darkblue;
+            color: white;
+            padding: 10px;
+        }
+        td {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Class Time Table</h1>
+        <table>
+            <tr>
+                <th>Day</th>
+                <th>9-10 AM</th>
+                <th>10-11 AM</th>
+                <th>11-12 PM</th>
+                <th>1-2 PM</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>Math</td>
+                <td>English</td>
+                <td>Python</td>
+                <td>Lab</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>Java</td>
+                <td>OS</td>
+                <td>DBMS</td>
+                <td>Sports</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>HTML</td>
+                <td>CSS</td>
+                <td>DevOps</td>
+                <td>Library</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>CN</td>
+                <td>SE</td>
+                <td>Java</td>
+                <td>Lab</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>Python</td>
+                <td>Math</td>
+                <td>Project</td>
+                <td>Seminar</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 8. Restaurant Menu Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Menu</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #fff8e7;
+        }
+        .menu {
+            width: 60%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: brown;
+        }
+        h2 {
+            color: darkgreen;
+        }
+        ul {
+            line-height: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu">
+        <h1>Restaurant Menu</h1>
+
+        <h2>Starters</h2>
+        <ul>
+            <li>Tomato Soup - ₹80</li>
+            <li>Spring Roll - ₹120</li>
+            <li>Paneer Tikka - ₹180</li>
+        </ul>
+
+        <h2>Main Course</h2>
+        <ul>
+            <li>Veg Fried Rice - ₹150</li>
+            <li>Paneer Butter Masala - ₹220</li>
+            <li>Butter Naan - ₹40</li>
+        </ul>
+
+        <h2>Desserts</h2>
+        <ul>
+            <li>Ice Cream - ₹90</li>
+            <li>Gulab Jamun - ₹70</li>
+            <li>Cake Slice - ₹100</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 9. Image Gallery Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ececec;
+            text-align: center;
+        }
+        .gallery {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            color: darkblue;
+        }
+        img {
+            width: 200px;
+            height: 150px;
+            margin: 10px;
+            border: 3px solid white;
+            box-shadow: 0 0 8px gray;
+        }
+    </style>
+</head>
+<body>
+    <div class="gallery">
+        <h1>Image Gallery</h1>
+        <img src="https://via.placeholder.com/200x150" alt="Image 1">
+        <img src="https://via.placeholder.com/200x150" alt="Image 2">
+        <img src="https://via.placeholder.com/200x150" alt="Image 3">
+        <img src="https://via.placeholder.com/200x150" alt="Image 4">
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 10. Personal Profile Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+        }
+        .profile {
+            width: 65%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkblue;
+        }
+        h2 {
+            color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <h1>My Personal Profile</h1>
+        <h2>About Me</h2>
+        <p>My name is Thamaraiselvi. I am pursuing Integrated M.Tech in Software Engineering at VIT Vellore. I am interested in web development and DevOps tools.</p>
+
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading books</li>
+            <li>Listening to music</li>
+            <li>Learning new technologies</li>
+        </ul>
+
+        <h2>Strengths</h2>
+        <ul>
+            <li>Quick learner</li>
+            <li>Good communication</li>
+            <li>Teamwork and leadership</li>
+        </ul>
+
+        <h2>Goals</h2>
+        <p>My goal is to become a successful software engineer and work on innovative technology solutions.</p>
+    </div>
+</body>
+</html>
+```
+Yes — apart from **resume**, exam questions usually stay in the same pattern: they ask you to create a different **single HTML page** and then use the same Docker/Jenkins/Kubernetes flow.
+
+These are the most common **other questions** that can be asked:
+
+**Profile page, portfolio page, college website, login page, registration form, feedback form, product page, restaurant menu, timetable, image gallery, blog page, contact us page, event page, company webpage, hospital webpage, library webpage.**
+
+Below are **full, decent, bigger HTML codes** for the most likely ones.
+
+---
+
+# 1. Resume Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume - Thamaraiselvi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 75%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkblue;
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #999;
+            padding-bottom: 5px;
+        }
+        p, li {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        .center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Thamaraiselvi</h1>
+        <p class="center"><b>Integrated M.Tech Software Engineering</b></p>
+        <p class="center">VIT Vellore</p>
+        <p class="center">Email: thamaraiselvi@email.com | Phone: 9876543210</p>
+
+        <h2>Career Objective</h2>
+        <p>To build a successful career in software engineering and contribute to innovative and meaningful projects using my technical knowledge, communication skills, and dedication.</p>
+
+        <h2>Education</h2>
+        <ul>
+            <li>Integrated M.Tech in Software Engineering - VIT Vellore</li>
+            <li>Higher Secondary Education - Completed successfully</li>
+            <li>SSLC - Completed successfully</li>
+        </ul>
+
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: C, Java, Python</li>
+            <li>Web Technologies: HTML, CSS, JavaScript basics</li>
+            <li>DevOps Tools: Docker, Jenkins, Kubernetes</li>
+            <li>Database: MySQL</li>
+        </ul>
+
+        <h2>Projects</h2>
+        <ul>
+            <li>Student Portfolio Deployment using Docker and Kubernetes</li>
+            <li>CI/CD Pipeline setup using Jenkins</li>
+            <li>Basic Web Application development using HTML and CSS</li>
+        </ul>
+
+        <h2>Strengths</h2>
+        <ul>
+            <li>Quick learner</li>
+            <li>Good communication skills</li>
+            <li>Teamwork and responsibility</li>
+        </ul>
+
+        <h2>Declaration</h2>
+        <p>I hereby declare that the above details are true to the best of my knowledge and belief.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 2. Personal Profile Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Profile</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            background-color: #eef5ff;
+            margin: 0;
+        }
+        .profile-box {
+            width: 70%;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkblue;
+        }
+        h2 {
+            color: darkred;
+        }
+        p, li {
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-box">
+        <h1>My Personal Profile</h1>
+        <h2>About Me</h2>
+        <p>My name is Thamaraiselvi. I am pursuing Integrated M.Tech in Software Engineering at VIT Vellore. I am interested in software development, web design, and DevOps tools.</p>
+
+        <h2>Educational Details</h2>
+        <p>I am currently studying at VIT Vellore and continuously improving my technical and practical knowledge through projects and hands-on learning.</p>
+
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading books</li>
+            <li>Listening to music</li>
+            <li>Learning new technologies</li>
+            <li>Working on academic projects</li>
+        </ul>
+
+        <h2>Goals</h2>
+        <p>My goal is to become a skilled software engineer and contribute effectively to the technology field through innovation and hard work.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 3. Student Registration Form
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f7f9;
+        }
+        .container {
+            width: 60%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkgreen;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        .inline {
+            width: auto;
+        }
+        .btn {
+            background-color: darkgreen;
+            color: white;
+            border: none;
+            padding: 12px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Student Registration Form</h1>
+        <form>
+            <label>Full Name</label>
+            <input type="text" placeholder="Enter full name">
+
+            <label>Email Address</label>
+            <input type="email" placeholder="Enter email">
+
+            <label>Password</label>
+            <input type="password" placeholder="Enter password">
+
+            <label>Phone Number</label>
+            <input type="text" placeholder="Enter phone number">
+
+            <label>Date of Birth</label>
+            <input type="date">
+
+            <label>Gender</label><br>
+            <input class="inline" type="radio" name="gender"> Male
+            <input class="inline" type="radio" name="gender"> Female
+            <br><br>
+
+            <label>Course</label>
+            <select>
+                <option>Integrated M.Tech</option>
+                <option>B.Tech</option>
+                <option>M.Tech</option>
+                <option>MCA</option>
+            </select>
+
+            <label>Skills</label><br>
+            <input class="inline" type="checkbox"> HTML
+            <input class="inline" type="checkbox"> CSS
+            <input class="inline" type="checkbox"> Java
+            <input class="inline" type="checkbox"> Python
+            <input class="inline" type="checkbox"> Docker
+            <br><br>
+
+            <label>Address</label>
+            <textarea rows="4" placeholder="Enter address"></textarea>
+
+            <input class="btn" type="submit" value="Register">
+        </form>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 4. Login Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #dbeafe, #eff6ff);
+        }
+        .login-box {
+            width: 400px;
+            margin: 100px auto;
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 0 12px gray;
+            text-align: center;
+            border-radius: 10px;
+        }
+        h1 {
+            color: darkblue;
+        }
+        input {
+            width: 90%;
+            padding: 12px;
+            margin: 10px 0;
+        }
+        button {
+            width: 95%;
+            padding: 12px;
+            background-color: darkblue;
+            color: white;
+            border: none;
+            font-size: 16px;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-box">
+        <h1>User Login</h1>
+        <p>Enter your username and password to continue</p>
+        <form>
+            <input type="text" placeholder="Enter username">
+            <input type="password" placeholder="Enter password">
+            <button type="submit">Login</button>
+        </form>
+        <p>Forgot password? Contact administrator.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 5. College Website
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Website</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f9fafb;
+        }
+        header {
+            background-color: maroon;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #222;
+            text-align: center;
+            padding: 12px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 20px;
+            font-size: 16px;
+        }
+        .content {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 8px gray;
+        }
+        h2 {
+            color: maroon;
+        }
+        li, p {
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>VIT Vellore</h1>
+        <p>Excellence in Education, Research and Innovation</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Courses</a>
+        <a href="#">Facilities</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="content">
+        <h2>About the Institution</h2>
+        <p>VIT Vellore is a premier educational institution known for quality education, modern infrastructure, and a strong focus on research and innovation.</p>
+
+        <h2>Courses Offered</h2>
+        <ul>
+            <li>B.Tech</li>
+            <li>M.Tech</li>
+            <li>Integrated M.Tech</li>
+            <li>MBA</li>
+            <li>MCA</li>
+        </ul>
+
+        <h2>Facilities</h2>
+        <ul>
+            <li>Modern classrooms and laboratories</li>
+            <li>Digital library and learning resources</li>
+            <li>Hostel and transport facilities</li>
+            <li>Sports and cultural activities</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 6. Feedback Form
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Feedback Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #edf7ed;
+        }
+        .form-box {
+            width: 55%;
+            margin: 40px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkgreen;
+        }
+        input, textarea, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background-color: darkgreen;
+            color: white;
+            border: none;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-box">
+        <h1>Feedback Form</h1>
+        <form>
+            <label>Name</label>
+            <input type="text" placeholder="Enter your name">
+
+            <label>Email</label>
+            <input type="email" placeholder="Enter your email">
+
+            <label>Department</label>
+            <input type="text" placeholder="Enter your department">
+
+            <label>Overall Rating</label>
+            <select>
+                <option>Excellent</option>
+                <option>Good</option>
+                <option>Average</option>
+                <option>Poor</option>
+            </select>
+
+            <label>Comments</label>
+            <textarea rows="5" placeholder="Write your feedback"></textarea>
+
+            <button type="submit">Submit Feedback</button>
+        </form>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 7. Timetable Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Class Timetable</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+        }
+        .container {
+            width: 80%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px gray;
+            text-align: center;
+        }
+        h1 {
+            color: darkblue;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 12px;
+        }
+        th {
+            background-color: darkblue;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Weekly Class Timetable</h1>
+        <table>
+            <tr>
+                <th>Day</th>
+                <th>9-10 AM</th>
+                <th>10-11 AM</th>
+                <th>11-12 PM</th>
+                <th>1-2 PM</th>
+                <th>2-3 PM</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>Math</td>
+                <td>English</td>
+                <td>Java</td>
+                <td>Python</td>
+                <td>Lab</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>DBMS</td>
+                <td>OS</td>
+                <td>HTML</td>
+                <td>CSS</td>
+                <td>Library</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>SE</td>
+                <td>Java</td>
+                <td>CN</td>
+                <td>Project</td>
+                <td>Sports</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>Python</td>
+                <td>Math</td>
+                <td>DevOps</td>
+                <td>Lab</td>
+                <td>Seminar</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>English</td>
+                <td>Java</td>
+                <td>DBMS</td>
+                <td>Project</td>
+                <td>Placement</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 8. Product Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8fafc;
+        }
+        .product {
+            width: 65%;
+            margin: 35px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkred;
+        }
+        .price {
+            color: green;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        button {
+            background-color: darkred;
+            color: white;
+            border: none;
+            padding: 12px 18px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="product">
+        <h1>Laptop Product Page</h1>
+        <p>This laptop is designed for students, programmers, and professionals who need high performance and reliability.</p>
+
+        <h2>Specifications</h2>
+        <ul>
+            <li>Intel Core i5 Processor</li>
+            <li>8GB RAM</li>
+            <li>512GB SSD</li>
+            <li>15.6 inch Full HD Display</li>
+            <li>Windows Operating System</li>
+        </ul>
+
+        <h2>Features</h2>
+        <ul>
+            <li>Fast boot and smooth performance</li>
+            <li>Good battery backup</li>
+            <li>Lightweight and portable design</li>
+            <li>Suitable for coding, office work, and online classes</li>
+        </ul>
+
+        <p class="price">Price: ₹55,000</p>
+        <button>Buy Now</button>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 9. Restaurant Menu Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Menu</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #fff8e1;
+        }
+        .menu-box {
+            width: 60%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: brown;
+        }
+        h2 {
+            color: darkgreen;
+        }
+        ul {
+            line-height: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu-box">
+        <h1>Restaurant Menu</h1>
+
+        <h2>Starters</h2>
+        <ul>
+            <li>Tomato Soup - ₹80</li>
+            <li>Veg Spring Roll - ₹120</li>
+            <li>Paneer Tikka - ₹180</li>
+        </ul>
+
+        <h2>Main Course</h2>
+        <ul>
+            <li>Veg Fried Rice - ₹150</li>
+            <li>Paneer Butter Masala - ₹220</li>
+            <li>Butter Naan - ₹40</li>
+            <li>Mixed Vegetable Curry - ₹200</li>
+        </ul>
+
+        <h2>Desserts</h2>
+        <ul>
+            <li>Ice Cream - ₹90</li>
+            <li>Gulab Jamun - ₹70</li>
+            <li>Chocolate Cake - ₹110</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 10. Contact Us Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Us</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef2ff;
+        }
+        .contact-box {
+            width: 60%;
+            margin: 40px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkblue;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background-color: darkblue;
+            color: white;
+            border: none;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="contact-box">
+        <h1>Contact Us</h1>
+        <p><b>Address:</b> VIT Vellore, Tamil Nadu</p>
+        <p><b>Email:</b> support@example.com</p>
+        <p><b>Phone:</b> 9876543210</p>
+
+        <h2>Send a Message</h2>
+        <form>
+            <input type="text" placeholder="Enter your name">
+            <input type="email" placeholder="Enter your email">
+            <textarea rows="5" placeholder="Enter your message"></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 11. Blog Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9fafb;
+        }
+        .blog {
+            width: 70%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkslateblue;
+        }
+        h2 {
+            color: darkred;
+        }
+        p {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="blog">
+        <h1>My Blog</h1>
+
+        <h2>Introduction to Web Development</h2>
+        <p>Web development is the process of creating websites and web applications. It includes frontend development using HTML, CSS, and JavaScript, and backend development using server-side technologies.</p>
+
+        <h2>Why I Like Learning Technology</h2>
+        <p>I enjoy learning technology because it helps solve real-world problems and gives many opportunities for innovation, creativity, and career growth.</p>
+
+        <h2>My Learning Goals</h2>
+        <p>I want to improve my knowledge in web development, cloud computing, DevOps, and software engineering by building projects and learning practical tools.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 12. Event Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff7ed;
+        }
+        .event-box {
+            width: 65%;
+            margin: 35px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkorange;
+        }
+        h2 {
+            color: darkblue;
+        }
+        p, li {
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="event-box">
+        <h1>College Technical Event</h1>
+        <h2>Event Details</h2>
+        <p>The Department of Software Engineering is organizing a technical symposium to encourage innovation, teamwork, and knowledge sharing among students.</p>
+
+        <h2>Date and Venue</h2>
+        <p>Date: 20th April 2026</p>
+        <p>Venue: Main Auditorium, VIT Vellore</p>
+
+        <h2>Events Included</h2>
+        <ul>
+            <li>Paper Presentation</li>
+            <li>Project Exhibition</li>
+            <li>Coding Contest</li>
+            <li>Quiz Competition</li>
+        </ul>
+
+        <h2>Contact</h2>
+        <p>For registration, contact the event coordinator.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 13. Hospital Webpage
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hospital Website</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0fdf4;
+        }
+        header {
+            background-color: seagreen;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .content {
+            width: 75%;
+            margin: 25px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h2 {
+            color: seagreen;
+        }
+        li, p {
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>City Care Hospital</h1>
+        <p>Quality Healthcare for Everyone</p>
+    </header>
+
+    <div class="content">
+        <h2>About Us</h2>
+        <p>City Care Hospital provides quality medical care with experienced doctors, advanced equipment, and patient-friendly services.</p>
+
+        <h2>Departments</h2>
+        <ul>
+            <li>General Medicine</li>
+            <li>Pediatrics</li>
+            <li>Orthopedics</li>
+            <li>Cardiology</li>
+        </ul>
+
+        <h2>Facilities</h2>
+        <ul>
+            <li>24/7 Emergency Care</li>
+            <li>Laboratory Services</li>
+            <li>Pharmacy</li>
+            <li>Ambulance Service</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 14. Library Webpage
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Library Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8fafc;
+        }
+        .library {
+            width: 75%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: saddlebrown;
+        }
+        h2 {
+            color: darkblue;
+        }
+        p, li {
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="library">
+        <h1>Central Library</h1>
+
+        <h2>About the Library</h2>
+        <p>The central library provides students with access to books, journals, digital resources, and peaceful study spaces.</p>
+
+        <h2>Available Resources</h2>
+        <ul>
+            <li>Academic textbooks</li>
+            <li>Reference books</li>
+            <li>Technical journals</li>
+            <li>Digital e-books and research articles</li>
+        </ul>
+
+        <h2>Library Timings</h2>
+        <p>Monday to Friday: 8:00 AM to 8:00 PM</p>
+        <p>Saturday: 9:00 AM to 5:00 PM</p>
+
+        <h2>Rules</h2>
+        <ul>
+            <li>Maintain silence in the reading hall</li>
+            <li>Return books on time</li>
+            <li>Carry student ID card</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 15. Company Webpage
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Website</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f3f4f6;
+        }
+        header {
+            background-color: #111827;
+            color: white;
+            text-align: center;
+            padding: 25px;
+        }
+        nav {
+            background-color: #374151;
+            text-align: center;
+            padding: 12px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+        }
+        .content {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h2 {
+            color: #111827;
+        }
+        p, li {
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tech Solutions Pvt Ltd</h1>
+        <p>Innovative Solutions for a Digital Future</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Services</a>
+        <a href="#">About Us</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="content">
+        <h2>About Our Company</h2>
+        <p>Tech Solutions Pvt Ltd is a software company providing web development, cloud solutions, and enterprise services to businesses.</p>
+
+        <h2>Services</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>Mobile App Development</li>
+            <li>Cloud and DevOps Services</li>
+            <li>Software Consulting</li>
+        </ul>
+
+        <h2>Why Choose Us</h2>
+        <ul>
+            <li>Experienced development team</li>
+            <li>Modern technology stack</li>
+            <li>Customer-focused solutions</li>
+            <li>Reliable support and maintenance</li>
+        </ul>
+    </div>
+</body>
+</html>
+
+Yes — here are **new HTML questions and full bigger codes** that I have **not already given**.
+
+These are good backup questions for exam practice:
+
+* **Employee details page**
+* **Online course page**
+* **Travel/tourism page**
+* **School website**
+* **Newspaper page**
+* **Music playlist page**
+* **Gym webpage**
+* **E-commerce homepage**
+* **Job application form**
+* **Movie review page**
+
+---
+
+# 1. Employee Details Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef2f3;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 70%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkblue;
+        }
+        h2 {
+            color: darkred;
+            border-bottom: 2px solid lightgray;
+            padding-bottom: 5px;
+        }
+        p, li {
+            font-size: 16px;
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Employee Details Page</h1>
+
+        <h2>Personal Information</h2>
+        <p><b>Name:</b> Thamaraiselvi</p>
+        <p><b>Employee ID:</b> EMP1024</p>
+        <p><b>Department:</b> Software Development</p>
+        <p><b>Email:</b> thamaraiselvi@company.com</p>
+
+        <h2>Job Information</h2>
+        <ul>
+            <li>Designation: Software Engineer</li>
+            <li>Experience: 2 Years</li>
+            <li>Location: Chennai</li>
+            <li>Working Hours: 9 AM to 6 PM</li>
+        </ul>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Java</li>
+            <li>Python</li>
+            <li>HTML and CSS</li>
+            <li>Docker and Jenkins</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 2. Online Course Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Course</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            background-color: #f8fafc;
+            margin: 0;
+        }
+        .course-box {
+            width: 75%;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            color: darkgreen;
+            text-align: center;
+        }
+        h2 {
+            color: darkblue;
+        }
+        p, li {
+            line-height: 1.8;
+        }
+        .btn {
+            background-color: darkgreen;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="course-box">
+        <h1>Online Course: Full Stack Development</h1>
+
+        <h2>Course Description</h2>
+        <p>This course provides a complete introduction to frontend and backend web development, including HTML, CSS, JavaScript, databases, and deployment tools.</p>
+
+        <h2>Modules Covered</h2>
+        <ul>
+            <li>HTML and CSS Basics</li>
+            <li>JavaScript Programming</li>
+            <li>Database Management</li>
+            <li>Backend Development</li>
+            <li>Docker and Deployment</li>
+        </ul>
+
+        <h2>Course Duration</h2>
+        <p>12 Weeks</p>
+
+        <h2>Benefits</h2>
+        <ul>
+            <li>Hands-on practice</li>
+            <li>Project-based learning</li>
+            <li>Certificate after completion</li>
+        </ul>
+
+        <button class="btn">Enroll Now</button>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 3. Travel / Tourism Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tourism Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eefcff;
+            margin: 0;
+        }
+        header {
+            background-color: teal;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .content {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h2 {
+            color: teal;
+        }
+        p, li {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Explore Tamil Nadu Tourism</h1>
+        <p>Discover beautiful destinations and culture</p>
+    </header>
+
+    <div class="content">
+        <h2>Popular Places</h2>
+        <ul>
+            <li>Ooty</li>
+            <li>Kodaikanal</li>
+            <li>Mahabalipuram</li>
+            <li>Madurai</li>
+        </ul>
+
+        <h2>Why Visit?</h2>
+        <p>Tamil Nadu offers hill stations, temples, beaches, historical monuments, and delicious food, making it a wonderful travel destination.</p>
+
+        <h2>Travel Facilities</h2>
+        <ul>
+            <li>Bus and train connectivity</li>
+            <li>Hotel accommodation</li>
+            <li>Tour guides</li>
+            <li>Online booking services</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 4. School Website Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>School Website</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f8fb;
+        }
+        header {
+            background-color: navy;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #222;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h2 {
+            color: navy;
+        }
+        p, li {
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ABC Matriculation School</h1>
+        <p>Knowledge, Discipline and Success</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Academics</a>
+        <a href="#">Admissions</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="container">
+        <h2>About Our School</h2>
+        <p>ABC Matriculation School is committed to providing quality education and building strong values among students.</p>
+
+        <h2>Facilities</h2>
+        <ul>
+            <li>Smart classrooms</li>
+            <li>Computer laboratory</li>
+            <li>Library</li>
+            <li>Sports ground</li>
+        </ul>
+
+        <h2>Achievements</h2>
+        <p>Our students have consistently performed well in academics, sports, and cultural activities.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 5. Newspaper Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daily News</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #f9f9f9;
+            margin: 0;
+        }
+        .paper {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkred;
+        }
+        h2 {
+            color: darkblue;
+        }
+        p {
+            text-align: justify;
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="paper">
+        <h1>Daily News</h1>
+
+        <h2>Technology News</h2>
+        <p>Technology continues to transform the world with innovations in artificial intelligence, cloud computing, and software engineering. Students are now gaining more opportunities to learn modern tools.</p>
+
+        <h2>Education News</h2>
+        <p>Educational institutions are increasingly adopting digital methods for teaching, project work, and skill development. Online resources and labs have become essential for practical learning.</p>
+
+        <h2>Sports News</h2>
+        <p>Students are actively participating in sports events and competitions, improving teamwork, leadership, and physical fitness along with academic excellence.</p>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 6. Music Playlist Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Music Playlist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3e8ff;
+        }
+        .playlist {
+            width: 65%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: purple;
+        }
+        h2 {
+            color: darkmagenta;
+        }
+        ul {
+            line-height: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="playlist">
+        <h1>My Favorite Music Playlist</h1>
+
+        <h2>Top Songs</h2>
+        <ul>
+            <li>Song 1 - Artist Name</li>
+            <li>Song 2 - Artist Name</li>
+            <li>Song 3 - Artist Name</li>
+            <li>Song 4 - Artist Name</li>
+        </ul>
+
+        <h2>About Playlist</h2>
+        <p>This playlist contains relaxing, energetic, and motivational songs that I enjoy listening to during study and free time.</p>
+
+        <h2>Genres Included</h2>
+        <ul>
+            <li>Melody</li>
+            <li>Pop</li>
+            <li>Classical</li>
+            <li>Instrumental</li>
+        </ul>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 7. Gym Webpage
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fitness Center</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .content {
+            width: 75%;
+            margin: 25px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h2 {
+            color: darkred;
+        }
+        p, li {
+            line-height: 1.7;
+        }
+        button {
+            background-color: darkred;
+            color: white;
+            border: none;
+            padding: 12px 18px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Power Fitness Center</h1>
+        <p>Stay Fit, Stay Healthy</p>
+    </header>
+
+    <div class="content">
+        <h2>About Us</h2>
+        <p>Power Fitness Center offers professional training, modern equipment, and a motivating environment for fitness enthusiasts.</p>
+
+        <h2>Services</h2>
+        <ul>
+            <li>Weight Training</li>
+            <li>Cardio Workouts</li>
+            <li>Personal Training</li>
+            <li>Yoga and Zumba Classes</li>
+        </ul>
+
+        <h2>Membership Plans</h2>
+        <ul>
+            <li>Monthly Plan - ₹1000</li>
+            <li>Quarterly Plan - ₹2500</li>
+            <li>Yearly Plan - ₹9000</li>
+        </ul>
+
+        <button>Join Now</button>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 8. E-Commerce Homepage
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Shopping</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #eef2ff;
+        }
+        header {
+            background-color: #1d4ed8;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 85%;
+            margin: 20px auto;
+        }
+        .product {
+            background-color: white;
+            width: 28%;
+            display: inline-block;
+            margin: 15px;
+            padding: 15px;
+            box-shadow: 0 0 8px gray;
+            vertical-align: top;
+            text-align: center;
+        }
+        h2 {
+            color: #1d4ed8;
+        }
+        button {
+            background-color: #1d4ed8;
+            color: white;
+            border: none;
+            padding: 10px 16px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Online Store</h1>
+        <p>Best Products at Best Prices</p>
+    </header>
+
+    <div class="container">
+        <div class="product">
+            <h2>Mobile Phone</h2>
+            <p>High quality smartphone with advanced features.</p>
+            <p><b>Price:</b> ₹20,000</p>
+            <button>Buy Now</button>
+        </div>
+
+        <div class="product">
+            <h2>Headphones</h2>
+            <p>Wireless headphones with noise cancellation.</p>
+            <p><b>Price:</b> ₹2,500</p>
+            <button>Buy Now</button>
+        </div>
+
+        <div class="product">
+            <h2>Smart Watch</h2>
+            <p>Track fitness, notifications, and health easily.</p>
+            <p><b>Price:</b> ₹4,000</p>
+            <button>Buy Now</button>
+        </div>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 9. Job Application Form
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Application Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8fafc;
+        }
+        .form-box {
+            width: 60%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkblue;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        .btn {
+            background-color: darkblue;
+            color: white;
+            border: none;
+            padding: 12px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-box">
+        <h1>Job Application Form</h1>
+        <form>
+            <label>Full Name</label>
+            <input type="text" placeholder="Enter your full name">
+
+            <label>Email</label>
+            <input type="email" placeholder="Enter your email">
+
+            <label>Phone Number</label>
+            <input type="text" placeholder="Enter your phone number">
+
+            <label>Position Applied For</label>
+            <select>
+                <option>Software Engineer</option>
+                <option>Web Developer</option>
+                <option>Data Analyst</option>
+                <option>DevOps Engineer</option>
+            </select>
+
+            <label>Experience</label>
+            <input type="text" placeholder="Enter your experience">
+
+            <label>Why should we hire you?</label>
+            <textarea rows="5" placeholder="Write your answer"></textarea>
+
+            <input type="submit" value="Apply Now" class="btn">
+        </form>
+    </div>
+</body>
+</html>
+```
+
+---
+
+# 10. Movie Review Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Review</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #fef2f2;
+        }
+        .review-box {
+            width: 70%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h1 {
+            text-align: center;
+            color: darkred;
+        }
+        h2 {
+            color: darkblue;
+        }
+        p {
+            line-height: 1.8;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="review-box">
+        <h1>Movie Review Page</h1>
+
+        <h2>Movie Name</h2>
+        <p><b>Title:</b> Inspiration</p>
+        <p><b>Genre:</b> Drama</p>
+        <p><b>Rating:</b> 4.5 / 5</p>
+
+        <h2>Story Summary</h2>
+        <p>The movie tells the story of determination, courage, and personal growth. It presents a meaningful message about hard work and success.</p>
+
+        <h2>Review</h2>
+        <p>The film has strong performances, engaging scenes, and a motivating theme. The music and visuals support the story well, making it enjoyable and memorable.</p>
+    </div>
+</body>
+</html>
+You’ve already covered a LOT — now I’ll give you **more UNIQUE question types** (completely different ideas) + **full decent codes** so you’re fully safe for exam 🔥
+
+These are **rare but tricky questions teachers ask to test you**.
+
+---
+
+# 🔥 1. Bank Website Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bank Website</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial;
+            background-color: #eef2ff;
+        }
+        header {
+            background-color: navy;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            box-shadow: 0 0 10px gray;
+        }
+        h2 { color: navy; }
+        li { line-height: 1.8; }
+    </style>
+</head>
+<body>
+<header>
+    <h1>ABC Bank</h1>
+    <p>Secure Banking Services</p>
+</header>
+
+<div class="container">
+    <h2>Services</h2>
+    <ul>
+        <li>Savings Account</li>
+        <li>Loans</li>
+        <li>Online Banking</li>
+        <li>Credit Cards</li>
+    </ul>
+
+    <h2>Why Choose Us</h2>
+    <p>We provide secure and fast banking services with 24/7 customer support.</p>
+</div>
+</body>
+</html>
+```
+
+---
+
+# 🔥 2. Food Order Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Food Order</title>
+<style>
+body { font-family: Arial; background: #fff3e0; }
+.container {
+    width: 60%; margin: 30px auto;
+    background: white; padding: 25px;
+    box-shadow: 0 0 10px gray;
+}
+h1 { text-align: center; color: darkorange; }
+input, select { width: 100%; padding: 10px; margin: 10px 0; }
+button { background: orange; color: white; padding: 10px; border: none; width: 100%; }
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1>Food Order Form</h1>
+<form>
+<input type="text" placeholder="Enter Name">
+<select>
+<option>Pizza</option>
+<option>Burger</option>
+<option>Fried Rice</option>
+</select>
+<input type="number" placeholder="Quantity">
+<button>Place Order</button>
+</form>
+</div>
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 3. Wedding Invitation Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wedding Invitation</title>
+<style>
+body { font-family: Georgia; background: #ffe4e1; text-align: center; }
+.card {
+    width: 60%; margin: 40px auto;
+    background: white; padding: 30px;
+    box-shadow: 0 0 10px gray;
+}
+h1 { color: maroon; }
+</style>
+</head>
+<body>
+
+<div class="card">
+<h1>Wedding Invitation</h1>
+<p>You are cordially invited to the wedding of</p>
+
+<h2>Arun & Priya</h2>
+
+<p>Date: 10th May 2026</p>
+<p>Venue: Chennai</p>
+
+<p>We request your presence to bless the couple.</p>
+</div>
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 4. Quiz Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quiz</title>
+<style>
+body { font-family: Arial; background: #f0fdf4; }
+.container {
+    width: 60%; margin: 30px auto;
+    background: white; padding: 25px;
+    box-shadow: 0 0 10px gray;
+}
+h1 { text-align: center; color: green; }
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1>Simple Quiz</h1>
+
+<p>1. HTML stands for?</p>
+<input type="radio"> Hyper Text Markup Language<br>
+<input type="radio"> High Text Machine Language<br><br>
+
+<p>2. CSS is used for?</p>
+<input type="radio"> Styling<br>
+<input type="radio"> Programming<br><br>
+
+<button>Submit</button>
+
+</div>
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 5. Book Store Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Book Store</title>
+<style>
+body { font-family: Arial; background: #f8fafc; }
+.store {
+    width: 70%; margin: 30px auto;
+    background: white; padding: 25px;
+    box-shadow: 0 0 10px gray;
+}
+h1 { text-align: center; color: brown; }
+.book { margin: 15px 0; }
+</style>
+</head>
+<body>
+
+<div class="store">
+<h1>Online Book Store</h1>
+
+<div class="book">
+<h3>Book 1</h3>
+<p>Price: ₹300</p>
+</div>
+
+<div class="book">
+<h3>Book 2</h3>
+<p>Price: ₹450</p>
+</div>
+
+</div>
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 6. Doctor Appointment Form
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Doctor Appointment</title>
+<style>
+body { font-family: Arial; background: #eef2ff; }
+.form {
+    width: 60%; margin: 30px auto;
+    background: white; padding: 25px;
+    box-shadow: 0 0 10px gray;
+}
+input, select { width: 100%; padding: 10px; margin: 10px 0; }
+button { background: blue; color: white; padding: 10px; border: none; width: 100%; }
+</style>
+</head>
+<body>
+
+<div class="form">
+<h1>Doctor Appointment</h1>
+<form>
+<input type="text" placeholder="Name">
+<input type="date">
+<select>
+<option>General</option>
+<option>Cardiology</option>
+</select>
+<button>Book Appointment</button>
+</form>
+</div>
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 7. Real Estate Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Real Estate</title>
+<style>
+body { font-family: Arial; background: #f3f4f6; }
+.container {
+    width: 70%; margin: 30px auto;
+    background: white; padding: 25px;
+    box-shadow: 0 0 10px gray;
+}
+h1 { text-align: center; color: darkgreen; }
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1>Real Estate Listings</h1>
+
+<h3>2BHK Apartment</h3>
+<p>Location: Chennai | Price: ₹50 Lakhs</p>
+
+<h3>Villa</h3>
+<p>Location: Bangalore | Price: ₹1.5 Crore</p>
+
+</div>
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 8. Photography Portfolio
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Photography</title>
+<style>
+body { font-family: Arial; background: #111; color: white; text-align: center; }
+img { width: 200px; margin: 10px; }
+</style>
+</head>
+<body>
+
+<h1>Photography Portfolio</h1>
+<p>Capturing Moments</p>
+
+<img src="https://via.placeholder.com/200">
+<img src="https://via.placeholder.com/200">
+<img src="https://via.placeholder.com/200">
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 9. Fashion Boutique Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fashion Store</title>
+<style>
+body { font-family: Arial; background: #fff0f5; }
+.container {
+    width: 70%; margin: 30px auto;
+    background: white; padding: 25px;
+    box-shadow: 0 0 10px gray;
+}
+h1 { text-align: center; color: deeppink; }
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1>Fashion Boutique</h1>
+
+<h3>Dress Collection</h3>
+<p>Latest trendy dresses available</p>
+
+<h3>Accessories</h3>
+<p>Bags, watches, and more</p>
+
+</div>
+
+</body>
+</html>
+```
+
+---
+
+# 🔥 10. Pet Care Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pet Care</title>
+<style>
+body { font-family: Arial; background: #f0fff4; }
+.container {
+    width: 70%; margin: 30px auto;
+    background: white; padding: 25px;
+    box-shadow: 0 0 10px gray;
+}
+h1 { text-align: center; color: green; }
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1>Pet Care Center</h1>
+
+<h2>Services</h2>
+<ul>
+<li>Pet Grooming</li>
+<li>Veterinary Care</li>
+<li>Pet Training</li>
+</ul>
+
+<h2>About Us</h2>
+<p>We provide complete care and love for your pets.</p>
+
+</div>
+
+</body>
+</html>
+```
